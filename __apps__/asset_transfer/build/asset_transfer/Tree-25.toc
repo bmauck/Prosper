@@ -1,0 +1,7 @@
+('c:\\users\\bmauck\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\markupsafe-1.0-py3.6.egg',
+ None,
+ {'*.pyw', '*.py', '*.cp36-win_amd64.pyd', 'EGG-INFO', '*.pyd', '*.pyc'},
+ 'DATA',
+ [('markupsafe\\_speedups.c',
+   'c:\\users\\bmauck\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\markupsafe-1.0-py3.6.egg\\markupsafe\\_speedups.c',
+   'DATA')])

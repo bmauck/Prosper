@@ -1,0 +1,6 @@
+pandas
+numpy
+datetime
+pandas-gbq
+PySimpleGUI
+pydata_google_auth

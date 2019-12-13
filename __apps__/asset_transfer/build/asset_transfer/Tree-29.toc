@@ -1,0 +1,13 @@
+('c:\\users\\bmauck\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\jsonschema-3.0.0a2-py3.6.egg',
+ None,
+ {'*.pyw', '*.py', '*.cp36-win_amd64.pyd', 'EGG-INFO', '*.pyd', '*.pyc'},
+ 'DATA',
+ [('jsonschema\\schemas\\draft3.json',
+   'c:\\users\\bmauck\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\jsonschema-3.0.0a2-py3.6.egg\\jsonschema\\schemas\\draft3.json',
+   'DATA'),
+  ('jsonschema\\schemas\\draft4.json',
+   'c:\\users\\bmauck\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\jsonschema-3.0.0a2-py3.6.egg\\jsonschema\\schemas\\draft4.json',
+   'DATA'),
+  ('jsonschema\\schemas\\draft6.json',
+   'c:\\users\\bmauck\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\jsonschema-3.0.0a2-py3.6.egg\\jsonschema\\schemas\\draft6.json',
+   'DATA')])
