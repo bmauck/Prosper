@@ -1,0 +1,9 @@
+numpy
+pandas
+sqlalchemy
+tabulate
+numpy
+tqdm
+datetime
+xhtml2pdf
+PySimpleGUI
